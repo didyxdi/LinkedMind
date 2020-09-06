@@ -2,4 +2,8 @@
 
 ### Team UCSDB
 
-*We aim at a way of creating events that everyone can see so that they can sign up and join.
+ - Demo：https://youtu.be/fSaZbRGTEzk
+
+ - Github：https://github.com/didyxdi/LinkedMind
+
+ - Project Live：team-ucsdb.herokuapp.com
