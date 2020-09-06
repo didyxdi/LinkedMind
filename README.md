@@ -6,4 +6,4 @@
 
  - Github：https://github.com/didyxdi/LinkedMind
 
- - Project Live：https://https://team-ucsdb.herokuapp.com
+ - Project Live：https://team-ucsdb.herokuapp.com
