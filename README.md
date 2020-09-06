@@ -1,4 +1,6 @@
-# Hackathon Fall 2020 Team UCSDB
+# Linked Mind
+
+### Hackathon Fall 2020 Team UCSDB
 
 ### Team UCSDB
 
